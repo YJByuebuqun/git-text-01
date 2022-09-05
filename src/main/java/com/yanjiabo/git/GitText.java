@@ -9,5 +9,6 @@ public class GitText {
         System.out.println("hello git 04 !!");
         System.out.println("master conflicts test !!");
         System.out.println("hot-fix conflicts test !!");
+        System.out.println("push test !!");
     }
 }
