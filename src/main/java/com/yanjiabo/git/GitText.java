@@ -10,5 +10,6 @@ public class GitText {
         System.out.println("master conflicts test !!");
         System.out.println("hot-fix conflicts test !!");
         System.out.println("push test !!");
+        System.out.println("pull test !!");
     }
 }
